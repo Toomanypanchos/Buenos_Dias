@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&display=swap');
+
+:root{
+	--bs-body-font-family: 'Orbitron', sans-serif;
+	--bs-body-font-weight: 400;
+    --bs-body-font-size: 1rem;
+    --bs-dark: #212529;
+}
+h1{
+    --bs-body-font-family: 'Orbitron', sans-serif;
+	--bs-body-font-weight: 600;
+} 
+h2{text-align: center;   
+}
+h3{text-align: center;    
+}
+
+#fondo-con-imagen {
+    height: 70vh;
+    background-image: url("jojo/Header.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: auto;
+    background-size: cover;
+}
