@@ -1,3 +1,4 @@
 # Portafolio
-proyectos que con los que pretendo desarrollar mi portafolio
-https://toomanypanchos.github.io/IDI_Sesion_10/
+
+Desarrollo de pagina web en la que mostrar mi desarrollo en diversos proyectos
+WID
